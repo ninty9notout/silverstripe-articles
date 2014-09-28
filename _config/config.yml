@@ -1,0 +1,8 @@
+---
+name: articles
+after:
+  - core/*
+---
+SiteTree:
+  extensions:
+    - ArticlesSiteTreeDecorator
